@@ -1,11 +1,11 @@
 <template>
 	<div>
-		Dream details
+		LIFE details
 	</div>
 </template>
 <script>
 export default {
-	name: "Dream"
+	name: "LIFE"
 }
 </script>
 <style></style>

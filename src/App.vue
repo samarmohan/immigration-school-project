@@ -5,6 +5,7 @@
 		</p>
 		<div id="nav">
 			<router-link to="/">Home</router-link> |
+			<router-link to="/sources">Sources</router-link> |
 			<router-link to="/laws">Laws and Policies</router-link> |
 			<router-link to="/agencies">Agencies and Bureaus</router-link> |
 			<router-link to="/statuses">Statuses</router-link>

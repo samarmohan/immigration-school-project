@@ -38,9 +38,24 @@ const routes = [
 		component: () => import("../components/details/IRCA.vue"),
 	},
 	{
-		path: "/:abbr",
-		name: "Details",
-		component: () => import("../components/Details.vue"),
+		path: "/dream",
+		name: "DREAM",
+		component: () => import("../components/details/DREAM.vue"),
+	},
+	{
+		path: "/life",
+		name: "LIFE",
+		component: () => import("../components/details/LIFE.vue"),
+	},
+	{
+		path: "/sources",
+		name: "Sources",
+		component: () => import("../components/Sources.vue"),
+	},
+	{
+		path: "/thoughts",
+		name: "Thoughts",
+		component: () => import("../components/Thoughts.vue"),
 	},
 ];
 

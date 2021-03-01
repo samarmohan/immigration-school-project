@@ -9,7 +9,7 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td>Immigration Reform and Control Act</td>
+				<td>The Immigration Reform and Control Act (IRCA)</td>
 				<td>1986</td>
 				<td>
 					<router-link class="btn btn-info btn-sm" to="/irca"
@@ -18,7 +18,7 @@
 				</td>
 			</tr>
 			<tr>
-				<td>The Immigration Act</td>
+				<td>The Immigration Act (IA)</td>
 				<td>1990</td>
 				<td>
 					<router-link class="btn btn-info btn-sm" to="/ia"
@@ -29,11 +29,33 @@
 			<tr>
 				<td>
 					The Illegal Immigration Reform and Immigrant Responsibility
-					Act
+					Act (IIRIAR)
 				</td>
 				<td>1996</td>
 				<td>
 					<router-link class="btn btn-info btn-sm" to="/iiriar"
+						>Details</router-link
+					>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					The Legal Immigration Family Equity Act (LIFE)
+				</td>
+				<td>2000</td>
+				<td>
+					<router-link class="btn btn-info btn-sm" to="/life"
+						>Details</router-link
+					>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					The Development, Relief, and Education for Alien Minors (DREAM)
+				</td>
+				<td>2010</td>
+				<td>
+					<router-link class="btn btn-info btn-sm" to="/dream"
 						>Details</router-link
 					>
 				</td>
