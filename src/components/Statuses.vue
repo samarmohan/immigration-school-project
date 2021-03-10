@@ -1,7 +1,5 @@
 <template>
-	<div>
-		Statuses
-	</div>
+	Statuses
 </template>
 
 <script>

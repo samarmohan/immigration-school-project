@@ -1,11 +1,9 @@
 <template>
-	<div>
-		My Thoughts
-	</div>
+	My Thoughts
 </template>
 <script>
 export default {
-	name: "Thoughts"
-}
+	name: "Thoughts",
+};
 </script>
 <style></style>

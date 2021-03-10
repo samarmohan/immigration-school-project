@@ -36,13 +36,8 @@ const routes = [
 		path: "/irca",
 		name: "IRCA",
 		component: () => import("../components/details/IRCA.vue"),
-	},
-	{
-		path: "/dream",
-		name: "DREAM",
-		component: () => import("../components/details/DREAM.vue"),
-	},
-	{
+  },
+  {
 		path: "/life",
 		name: "LIFE",
 		component: () => import("../components/details/LIFE.vue"),

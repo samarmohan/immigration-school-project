@@ -28,8 +28,8 @@
 			</tr>
 			<tr>
 				<td>
-					The Illegal Immigration Reform and Immigrant Responsibility
-					Act (IIRIAR)
+					The Illegal Immigration Reform and Immigrant Responsibility Act
+					(IIRIAR)
 				</td>
 				<td>1996</td>
 				<td>
@@ -40,22 +40,11 @@
 			</tr>
 			<tr>
 				<td>
-					The Legal Immigration Family Equity Act (LIFE)
+					Legal Immigration and Family Equity (LIFE)
 				</td>
 				<td>2000</td>
 				<td>
 					<router-link class="btn btn-info btn-sm" to="/life"
-						>Details</router-link
-					>
-				</td>
-			</tr>
-			<tr>
-				<td>
-					The Development, Relief, and Education for Alien Minors (DREAM)
-				</td>
-				<td>2010</td>
-				<td>
-					<router-link class="btn btn-info btn-sm" to="/dream"
 						>Details</router-link
 					>
 				</td>

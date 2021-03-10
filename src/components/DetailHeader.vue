@@ -6,9 +6,9 @@
 export default {
 	name: "DetailHeader",
 	props: {
-		title: String
-	}
-}
+		title: String,
+	},
+};
 </script>
 <style>
 #header {
