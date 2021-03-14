@@ -10,6 +10,9 @@
 			https://www.law.cornell.edu/wex/united_states_citizenship_and_immigration_services_(uscis)#:~:text=Primary%20tabs,immigration%20to%20the%20United%20States.
 		</li>
 		<li>https://www.aila.org/infonet/current-immigration-laws</li>
+		<li>
+			https://www.lawfirms.com/resources/immigration-law/what-the-four-categories-immigration-status-the-us
+		</li>
 	</ul>
 </template>
 <script>

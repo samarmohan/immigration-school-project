@@ -16,8 +16,10 @@
 		<li class="list-group-item">
 			<h4><a href="https://www.ice.gov/">ICE</a></h4>
 			<h5>(U.S. Immigration and Customs Enforcement)</h5>
-			ICE's mission is to "protect America from the cross-border crime and
-			illegal immigration that threaten national security and public safety."
+			ICE works very closely with CBP. Their misson is to "The mission of U.S.
+			Immigration and Customs Enforcement (ICE) is to protect America from the
+			cross-border crime and illegal immigration that threaten national security
+			and public safety."
 		</li>
 	</ul>
 </template>

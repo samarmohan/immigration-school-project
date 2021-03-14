@@ -1,5 +1,5 @@
 <template>
-	My Thoughts
+	s
 </template>
 <script>
 export default {
